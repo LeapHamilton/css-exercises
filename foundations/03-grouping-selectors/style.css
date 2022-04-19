@@ -1,0 +1,13 @@
+.blackie,
+.yellowy {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman" Sans-Serif;
+}
+
+.blackie {
+    background-color: #000;
+    color: #fff;
+}
+.yellowy {
+    background-color: #ff0;
+}
